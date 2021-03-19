@@ -3,3 +3,4 @@ node_modules
 npm-debug.log
 *.vsix
 scrapbook.js
+playgrounds/.vscode/eslint-server/.github/-1zA-2/
