@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
     "root": true,
     "env": {
@@ -15,4 +16,23 @@
     "rules": {
         "no-extra-semi": "warn"
     }
+=======
+{
+    "root": true,
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true,
+        "node": true
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "sourceType": "module"
+    },
+    "rules": {
+        "no-extra-semi": "warn"
+    }
+>>>>>>> Stashed changes
 }

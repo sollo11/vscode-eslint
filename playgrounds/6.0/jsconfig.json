@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 {
 	"compilerOptions": {
 		"checkJs": true
 	}
+=======
+{
+	"compilerOptions": {
+		"checkJs": true
+	}
+>>>>>>> Stashed changes
 }

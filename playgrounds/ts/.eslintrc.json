@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 {
 	"extends": ".eslintrc.base.json",
 	"rules": {
 	}
+=======
+{
+	"extends": ".eslintrc.base.json",
+	"rules": {
+	}
+>>>>>>> Stashed changes
 }
